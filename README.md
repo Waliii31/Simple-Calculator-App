@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Day 5 Project: Simple Calculator App 🧮
 
-## Getting Started
+Welcome to Day 5 of my **30 Days 30 Projects Challenge**!
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The **Simple Calculator App** is a minimalistic and user-friendly web application designed for performing basic arithmetic operations. It allows users to input numbers, perform calculations, and display the results.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Basic Operations**: Perform addition, subtraction, multiplication, and division.
+- **Input and Display**: Input numbers and display the calculated result.
+- **Clear Input**: Option to clear the input and start a new calculation.
+- **Responsive Design**: The app is fully responsive and works seamlessly across all devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+- **Next.js**: Built using the Next.js framework.
+- **React**: Manages the UI components and calculation logic.
+- **TypeScript**: Provides type safety and handles the logic.
+- **shadcn/ui**: Designed the UI with this component library.
+- **Tailwind CSS**: Ensures a clean and consistent design throughout the app.
+- **Vercel**: Used for deploying the app.
 
-To learn more about Next.js, take a look at the following resources:
+## Live Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Check out the live demo of the Simple Calculator App on Vercel:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Live Demo](https://simple-calculator-app-eight.vercel.app/)
 
-## Deploy on Vercel
+## Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Simple Calculator App](https://github.com/user-attachments/assets/6ddf17cb-588e-43c9-89a8-aa3ac21acee2)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
